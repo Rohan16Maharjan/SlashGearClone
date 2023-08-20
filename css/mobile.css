@@ -1,0 +1,66 @@
+.contain1 {
+	display: block;
+	max-width: 500px;
+	margin: auto;
+}
+.container {
+	margin: 25px 15px 0 0;
+}
+header {
+	padding-bottom: 15px;
+}
+
+.contain1 .body1 .image a img {
+	width: 360px;
+	height: auto;
+}
+
+h3 span {
+	padding: 0 0px;
+}
+.body1 {
+	width: 360px;
+	height: 500px;
+	margin-left: 15px;
+	margin-bottom: 1rem;
+	border: 1px solid rgb(194, 188, 188);
+}
+
+.container header {
+	/* margin-top: 1px; */
+}
+
+.container header h1 span {
+	font-size: 18px;
+}
+/* about us */
+.ab p {
+	text-align: justify;
+	margin: 0 15px;
+	/* font-size: 15px; */
+}
+
+.ab {
+	/* margin: 0 15px; */
+}
+
+/* Head Body */
+.hb {
+	max-width: 500px;
+}
+.hb1 img {
+	width: 390px;
+	height: auto;
+}
+
+.hb1 .describe h2 {
+	position: absolute;
+	color: white;
+	z-index: 1;
+	top: 13rem;
+	left: 2rem;
+	font-size: 1.3rem;
+}
+.hb2 {
+	display: none;
+}

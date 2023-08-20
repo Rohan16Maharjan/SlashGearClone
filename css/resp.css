@@ -1,0 +1,41 @@
+/* home */
+/* <!-- Head body --> */
+body {
+	max-width: 1600px;
+	margin: auto;
+}
+.hb1 img {
+	width: 420px;
+}
+.hb2 {
+	display: none;
+}
+
+/* Top Body */
+.mt {
+	margin-top: 4rem;
+	margin-bottom: 0rem;
+}
+.contain1 {
+	display: block;
+}
+
+.body1 {
+	max-width: 380px;
+	margin: auto;
+	margin-left: 0.9rem;
+}
+
+.body1 .image img {
+	max-width: 380px;
+	margin: auto;
+}
+.hb1 .describe h2 {
+	position: absolute;
+	color: white;
+	z-index: 1;
+	top: 15rem;
+	left: 2rem;
+	text-align: center;
+	font-size: 1.3rem;
+}
